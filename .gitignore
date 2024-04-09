@@ -1,0 +1,9 @@
+build/*
+install/*
+*.root
+*.pdf
+*.png
+*.so
+*.o
+*.d
+*.mk
